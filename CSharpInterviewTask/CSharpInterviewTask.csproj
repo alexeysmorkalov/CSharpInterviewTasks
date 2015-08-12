@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="StockBestProfit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProductOfOtherNumbers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
